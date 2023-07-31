@@ -22,3 +22,10 @@
 ### Commit 003 - 30.07.2023
 * Ajuste da data do commit anterior
 * Pesquisa para solução do Desafio03.py
+
+### Commit 004 - 31.07.2023
+* Criado pasta "Aula 002 - Tipos Primitivos de Dados"
+* Criado arquivo "Tipos primitivos.py"
+* Criado arquivo "Desafio01.py"
+* Criado arquivo "Ex01.py"
+* Criado arquivo "Ex02.py"
