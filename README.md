@@ -29,3 +29,8 @@
 * Criado arquivo "Desafio01.py"
 * Criado arquivo "Ex01.py"
 * Criado arquivo "Ex02.py"
+
+### Commit 005 - 31.07.2023
+* Renomeado nome do arquivo Desafio01.py para Desafio03.py
+* Criado arquivo Desafio04.py
+* Acrescentado a descrição dos desafios em comentário

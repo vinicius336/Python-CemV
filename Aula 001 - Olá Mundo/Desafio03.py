@@ -1,6 +1,9 @@
+'''
+    Escreva um código que leia dois números realize a soma e informe na tela o resultado
+'''
 print()
-numero01 = int(input('Digite um número: '))
-numero02 = int(input('Digite outro número: '))
+numero01 = ('Digite um número: ')
+numero02 = ('Digite outro número: ')
 resultado = numero01 + numero02
 print('A soma deles é: ', resultado)
 print()
