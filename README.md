@@ -13,8 +13,12 @@
 * Mostrar na tela valores de variáveis
 * Entrada de valores através do teclado em tempo de execução
 
-### Commit 002 - 30.07.203
+### Commit 002 - 30.07.2023
 * Alteração da data do commit anterior
 * Criado Desafio01.py
 * Criado Desafio02.py
 * Criado Desafio03.py
+
+### Commit 003 - 30.07.2023
+* Ajuste da data do commit anterior
+* Pesquisa para solução do Desafio03.py

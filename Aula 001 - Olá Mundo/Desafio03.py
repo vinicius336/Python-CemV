@@ -1,6 +1,6 @@
 print()
-numero01 = input('Digite um número: ')
-numero02 = input('Digite outro número: ')
+numero01 = int(input('Digite um número: '))
+numero02 = int(input('Digite outro número: '))
 resultado = numero01 + numero02
 print('A soma deles é: ', resultado)
 print()
