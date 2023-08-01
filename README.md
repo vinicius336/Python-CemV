@@ -34,3 +34,6 @@
 * Renomeado nome do arquivo Desafio01.py para Desafio03.py
 * Criado arquivo Desafio04.py
 * Acrescentado a descrição dos desafios em comentário
+
+### Commit 006 - 31.07.2023
+* Desafio04.py resolvido
