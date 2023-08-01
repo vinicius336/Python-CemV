@@ -42,3 +42,7 @@
 * Alteração do formato de data dos commits
 * Criação da pasta Exercícios Propostos Python
 * Criação dos arquivos e inclusão dos exercícios propostos em uma pasta específica
+
+### Commit 008 - 31/07/2023
+* Alteração do nome das pastas das aulas
+* Criação da pasta da Aula 03
