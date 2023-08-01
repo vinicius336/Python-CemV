@@ -61,3 +61,12 @@
 * Add Desafio05
 * Add Desafio06
 * Mudança dos nomes dos arquivos de Desafios para 00x - Desafio
+
+### Commit 012 - 01/08/2023
+* Add Desafio07
+* Add Desafio08
+* Add Desafio09
+* Add Desafio10
+* Add Desafio11
+* Add Desafio12
+* Add Desafio13
