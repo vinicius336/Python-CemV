@@ -46,3 +46,9 @@
 ### Commit 008 - 31/07/2023
 * Alteração do nome das pastas das aulas
 * Criação da pasta da Aula 03
+
+### Commit 009 - 01/08/2023
+* Add Operações.py
+* Add Ex03.py
+* Add Ex04.py
+* Add Ex05.py
