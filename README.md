@@ -52,3 +52,7 @@
 * Add Ex03.py
 * Add Ex04.py
 * Add Ex05.py
+
+### Commit 010 - 01/08/2023
+* Add pasta DESAFIOS
+* Organização dos desafios dentro da respectiva pasta
