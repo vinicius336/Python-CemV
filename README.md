@@ -89,3 +89,10 @@
 
 ### Commit 016 - 02/08/2023
 * Melhorando os nomes dos arquivos
+
+### Commit 017 - 02/08/2023
+* Add 006 - impot.py
+* Add Desafio16.py
+* Add Desafio17.py
+* Add Desafio18.py
+* Add Desafio19.py
