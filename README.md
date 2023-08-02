@@ -79,3 +79,7 @@
 * Adequação do Desafio11
 * Adequação do Desafio12
 * Adequação do Desafio13
+
+### Commit 014 - 01/08/2023
+* Add Desafio14
+* Add Desafio15
