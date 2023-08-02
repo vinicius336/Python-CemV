@@ -70,3 +70,12 @@
 * Add Desafio11
 * Add Desafio12
 * Add Desafio13
+
+### Commit 013 - 01/08/2023
+* Adequação do Desafio07
+* Adequação do Desafio08
+* Adequação do Desafio09
+* Adequação do Desafio10
+* Adequação do Desafio11
+* Adequação do Desafio12
+* Adequação do Desafio13

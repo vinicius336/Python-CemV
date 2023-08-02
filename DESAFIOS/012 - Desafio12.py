@@ -3,7 +3,7 @@
 '''
 print()
 
-preco = float(input('Digite o preço do produto: '))
-print('Com desconto de 5% este produto fica por: {}' .format(preco * 0.95))
+preco = float(input('Digite o preço do produto: R$'))
+print('O produto custa R${}\nCom desconto de 5% este produto fica por: {}' .format(preco, preco * 0.95))
 
 print()

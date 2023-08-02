@@ -4,8 +4,9 @@
 '''
 print()
 
-real = float(input('Digite uma quantia em Real: '))
-dolar = real / 3.27
-print('Com R$ {} você pode comprar US$ {:.2f}' .format(real, dolar))
+real = float(input('Digite quanto você tem na carteira: R$'))
+dolar = real / 4.79
+euro = real / 5.27
+print('Com R$ {} você pode comprar US$ {:.2f} ou €{:.2f}' .format(real, dolar, euro))
 
 print()
