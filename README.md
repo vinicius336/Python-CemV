@@ -96,3 +96,9 @@
 * Add Desafio17.py
 * Add Desafio18.py
 * Add Desafio19.py
+
+### Commit 018 - 02/08/2023
+* Aterado Desafio19.py
+* Aterado Desafio18.py
+* Add Desafio20.py
+* Add Desafio21.py
