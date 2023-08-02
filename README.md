@@ -102,3 +102,6 @@
 * Aterado Desafio18.py
 * Add Desafio20.py
 * Add Desafio21.py
+
+### Commit 019 - 02/08/2023
+* Alternativa no Desafio16

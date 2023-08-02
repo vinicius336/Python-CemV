@@ -5,5 +5,7 @@ from math import trunc
 print()
 num = float(input('Digite um número Real: '))
 print('A parte inteira de {} é {}' .format(num, trunc(num)))
+print()
+print('A parte inteira de {} é {}' .format(num, int(num)))
 
 print()
