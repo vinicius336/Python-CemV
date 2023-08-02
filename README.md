@@ -86,3 +86,6 @@
 
 ### Commit 015 - 02/08/2023
 * Organização de arquivos e pastas
+
+### Commit 016 - 02/08/2023
+* Melhorando os nomes dos arquivos
