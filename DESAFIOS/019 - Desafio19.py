@@ -11,7 +11,10 @@ aluno4 = str(input('Nome do quarto aluno: '))
 alunos = aluno1 + aluno2 + aluno3 + aluno4
 alunos = aluno1.split() + aluno2.split() + aluno3.split() + aluno4.split()
 print('Entre os alunos', alunos)
-
 print('O aluno sorteado para apagar o quadro é: {}' .format(random.sample(alunos,1)))
+print()
+listaAlunos = [aluno1, aluno2, aluno3, aluno4]
+print('Entre os alunos', listaAlunos)
+print('O aluno sorteado para apagar o quadro é: {}' .format(random.choice(listaAlunos)))
 
 print()

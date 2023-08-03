@@ -111,3 +111,6 @@
 
 ### Commit 021 - 02/08/2023
 * Alternativa no Desafio18
+
+Commit 022 - 02/08/2023
+* Alternativa no Desafio19
