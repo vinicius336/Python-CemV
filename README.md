@@ -105,3 +105,6 @@
 
 ### Commit 019 - 02/08/2023
 * Alternativa no Desafio16
+
+### Commit 020 - 02/08/2023
+* Alternativa no Desafio17
