@@ -3,10 +3,10 @@
 '''
 from math import sin, cos, tan, radians
 print()
-ang = int(input('Digite o valor de um ângulo: '))
+ang = float(input('Digite o valor de um ângulo: '))
 print('O ângulo é: {:.1f}' .format(radians(ang)))
-print('Seu Seno é: {:.4f}' .format(sin(radians(ang))))
-print('Seu Cosseno é: {:.4f}' .format(cos(radians(ang))))
-print('Sua Tangente é: {:.4f}' .format(tan(radians(ang))))
+print('Seu Seno é: {:.2f}' .format(sin(radians(ang))))
+print('Seu Cosseno é: {:.2f}' .format(cos(radians(ang))))
+print('Sua Tangente é: {:.2f}' .format(tan(radians(ang))))
 
 print()
