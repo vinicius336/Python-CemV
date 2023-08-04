@@ -117,3 +117,10 @@
 
 ### Commit 023 - 02/08/2023
 * Alternativa no Desafio20
+
+### Commit 024 - 02/08/2023
+* Aprendendo arquivos com a resolução do Desafio21
+
+### Commit 025 - 03/08/2023
+* Add Texto.py
+* Add Textos.py
