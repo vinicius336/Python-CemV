@@ -124,3 +124,6 @@
 ### Commit 025 - 03/08/2023
 * Add Texto.py
 * Add Textos.py
+
+### Commot 026 - 04/08/2023
+* Add Desafios 22-27.py (Somente enunciado)
