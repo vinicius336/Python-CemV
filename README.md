@@ -127,3 +127,11 @@
 
 ### Commot 026 - 04/08/2023
 * Add Desafios 22-27.py (Somente enunciado)
+
+### Commit 027 - 05/08/2023
+* Desenvolvimento Desafio 22
+* Correção Desafio 22
+* Desenvolvimento Desafio 23 (inteiros)
+* Treinando strings em Ex07 - Treino_string.py
+* Desenvolvimento Desafio 23 (strings)
+* Correção Desafio 23 incompleto
