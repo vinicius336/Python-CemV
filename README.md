@@ -148,3 +148,5 @@
 * Desenvolvimento Desafio 27
 * Correção Desafio 27
 
+### Commit 031 - 06/08/2023
+* Treino em Ex07 - Treino_string.py
