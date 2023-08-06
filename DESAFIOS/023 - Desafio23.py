@@ -10,13 +10,14 @@
     Observação:. Fazer como string e como inteiro
 '''
 print()
-print('{:=^20}' .format(' Com String '))
-num = int(input('Digite um número de 0 a 9999: '))
-num = str(num)
-print('Unidade: {}\nDezena: {}\nCentena: {}\nMilhar: {}' .format(, , , ))
+print('{:=^60}' .format(' Com String '))
+num = str(input('Digite um número de 0 a 9999: '))
+tamanho = len(num)
+print('Unidade: {}\nDezena: {}\nCentena: {}\nMilhar: {}' .format(num[tamanho-1], num[tamanho-2], num[tamanho-3], num[tamanho-4]))
+print('{:=^60}' .format(' Ainda não é possível fazer com String '))
 
-print('{:=^40}' .format(''))
-print('{:=^20}' .format(' Com Inteiro '))
+print('{:=^60}' .format(''))
+print('{:=^60}' .format(' Com Inteiro '))
 num = int(input('Digite um número de 0 a 9999: '))
 und = num % 10
 num = num // 10

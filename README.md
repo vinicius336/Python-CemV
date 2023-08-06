@@ -135,3 +135,6 @@
 * Treinando strings em Ex07 - Treino_string.py
 * Desenvolvimento Desafio 23 (strings)
 * Correção Desafio 23 incompleto
+
+### Commit 028 = 06/08/2023
+* Finalização Desafio 23
