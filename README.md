@@ -136,5 +136,10 @@
 * Desenvolvimento Desafio 23 (strings)
 * Correção Desafio 23 incompleto
 
-### Commit 028 = 06/08/2023
+### Commit 028 - 06/08/2023
 * Finalização Desafio 23
+
+### Commit 029 - 06/08/2023
+* Desenvolvimento Desafios 24 a 26
+* Correção Desafios 24 a 26
+* Renomear Desafios 24 a 27
