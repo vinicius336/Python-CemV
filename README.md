@@ -143,3 +143,8 @@
 * Desenvolvimento Desafios 24 a 26
 * Correção Desafios 24 a 26
 * Renomear Desafios 24 a 27
+
+### Commit 030 - 06/08/2023
+* Desenvolvimento Desafio 27
+* Correção Desafio 27
+
