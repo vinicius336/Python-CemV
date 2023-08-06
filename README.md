@@ -150,3 +150,6 @@
 
 ### Commit 031 - 06/08/2023
 * Treino em Ex07 - Treino_string.py
+
+### Commit 032 - 06/08/2023
+* Exercício 008 - Se.py
