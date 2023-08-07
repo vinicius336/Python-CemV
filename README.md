@@ -158,3 +158,7 @@
 * Alterado nome 021 - Asa_Branca.mp3
 * Desafios 28 a 35
 * Desenvolvimento Desafios 28 a 35
+
+### Commit 034 - 07/08/2023
+* Correção Desafio 28 
+* Adição de novos recursos
