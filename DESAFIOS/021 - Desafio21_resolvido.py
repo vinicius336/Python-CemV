@@ -3,7 +3,7 @@
 '''
 import pygame
 pygame.init()
-pygame.mixer.music.load("Asa_Branca.mp3")
+pygame.mixer.music.load("021 - Asa_Branca.mp3")
 pygame.mixer.music.set_volume(0.5)
 pygame.mixer.music.play()
 pygame.event.wait()

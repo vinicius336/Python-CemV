@@ -153,3 +153,8 @@
 
 ### Commit 032 - 06/08/2023
 * Exercício 008 - Se.py
+
+### Commit 033 - 06/08/2023
+* Alterado nome 021 - Asa_Branca.mp3
+* Desafios 28 a 35
+* Desenvolvimento Desafios 28 a 35
