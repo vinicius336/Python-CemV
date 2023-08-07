@@ -162,3 +162,7 @@
 ### Commit 034 - 07/08/2023
 * Correção Desafio 28 
 * Adição de novos recursos
+
+### Commit 035 - 08/08/2023
+* Alteração Desafio 28-29-31-32
+* Correção Desafios 29 a 35

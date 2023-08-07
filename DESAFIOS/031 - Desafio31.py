@@ -4,9 +4,11 @@
 '''
 print()
 km = int(input('Digite a distância da viagem: '))
-if(km >= 200):
+'''if(km <= 200):
     print('A passagem custa R${:.2f}' .format(km * .5))
 else:
-    print('A passagem custa R${:.2f}' .format(km * .45))
+    print('A passagem custa R${:.2f}' .format(km * .45))'''
+
+print('A passagem custa R${:.2f}' .format(km * .5)) if(km <= 200) else print('A passagem custa R${:.2f}' .format(km * .45))
 
 print()
