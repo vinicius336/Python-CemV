@@ -170,3 +170,6 @@
 ### Commit 036 - 07/08/2023
 * Alteração data commit anterior
 * Aula 009 - Cores.py
+
+### Commit 037 - 08/08/2023
+* Treinando cores
