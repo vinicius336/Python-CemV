@@ -173,3 +173,6 @@
 
 ### Commit 037 - 08/08/2023
 * Treinando cores
+
+### Commit 038 - 08/08/2023
+* Incluindo cor no Desafio01
