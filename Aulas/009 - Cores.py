@@ -22,33 +22,33 @@ tLilás = '\033[35m'
 tCiano = '\033[36m'
 tCinza = '\033[37m'
 print(vazio, ' Olá mundo! ', vazio,)
-print(tBranco, ' Olá mundo! ',vazio)
-print(tVermelho, ' Olá mundo! ',vazio)
-print(tVerde, ' Olá mundo! ',vazio)
-print(tAmarelo, ' Olá mundo! ',vazio)
-print(tAzul, ' Olá mundo! ',vazio)
-print(tLilás, ' Olá mundo! ', vazio)
-print(tCiano, ' Olá mundo! ', vazio)
-print(tCinza, ' Olá mundo! ', vazio)
+print(tBranco, ' Olá mundo! - 30',vazio)
+print(tVermelho, ' Olá mundo! - 31',vazio)
+print(tVerde, ' Olá mundo! - 32',vazio)
+print(tAmarelo, ' Olá mundo! - 33',vazio)
+print(tAzul, ' Olá mundo! - 34',vazio)
+print(tLilás, ' Olá mundo! - 35', vazio)
+print(tCiano, ' Olá mundo! - 36', vazio)
+print(tCinza, ' Olá mundo! - 37', vazio)
 
-fBranco = '\033[40m'
-fVermelho = '\033[41m'
-fVerde = '\033[42m'
-fAmarelo = '\033[43m'
-fAzul = '\033[44m'
-fLilás = '\033[45m'
-fCiano = '\033[46m'
-fCinza = '\033[47m'
-fNovo = '\033[49m'
+fBranco = '\033[1;40m'
+fVermelho = '\033[1;41m'
+fVerde = '\033[1;42m'
+fAmarelo = '\033[1;43m'
+fAzul = '\033[1;44m'
+fLilás = '\033[1;45m'
+fCiano = '\033[1;46m'
+fCinza = '\033[1;47m'
+fNovo = '\033[1;49m'
 print()
-print(fBranco, ' Olá mundo! ', vazio)
-print(fVermelho, ' Olá mundo! ', vazio)
-print(fVerde, ' Olá mundo! ', vazio)
-print(fAmarelo, ' Olá mundo! ', vazio)
-print(fAzul, ' Olá mundo! ', vazio)
-print(fLilás, ' Olá mundo! ', vazio)
-print(fCiano, ' Olá mundo! ', vazio)
-print(fCinza, ' Olá mundo! ', vazio)
+print(fBranco, ' Olá mundo! - 40', vazio)
+print(fVermelho, ' Olá mundo! - 41', vazio)
+print(fVerde, ' Olá mundo! - 42', vazio)
+print(fAmarelo, ' Olá mundo! - 43', vazio)
+print(fAzul, ' Olá mundo! - 44', vazio)
+print(fLilás, ' Olá mundo! - 45', vazio)
+print(fCiano, ' Olá mundo! - 46', vazio)
+print(fCinza, ' Olá mundo! - 47', vazio)
 
 sNenhum = '\033[0m'
 sNegrito = '\033[2m'
@@ -59,11 +59,11 @@ sItalico = '\033[3m'
 sCensor = '\033[8m'
 sTachado = '\033[9m'
 print()
-print(sNenhum, ' Olá mundo! ', vazio)
-print(sSublinhado, ' Olá mundo! ', vazio)
-print(sNegrito, ' Olá mundo! ', vazio)
-print(sNegativo, ' Olá mundo! ', vazio)
-print(sNegrit, ' Olá mundo! ', vazio)
-print(sItalico, ' Olá mundo! ', vazio)
-print(sCensor, ' Olá mundo! ', vazio)
-print(sTachado, ' Olá mundo! ', vazio)
+print(sNenhum, ' Olá mundo! - 0', vazio)
+print(sSublinhado, ' Olá mundo! - 4', vazio)
+print(sNegrito, ' Olá mundo! - 2', vazio)
+print(sNegativo, ' Olá mundo! -7', vazio)
+print(sNegrit, ' Olá mundo! - 1', vazio)
+print(sItalico, ' Olá mundo! - 3', vazio)
+print(sCensor, ' Olá mundo!', vazio, '- Censor - 8')
+print(sTachado, ' Olá mundo! - 9', vazio)
