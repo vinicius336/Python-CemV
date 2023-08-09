@@ -3,9 +3,9 @@
 '''
 
 print()
-diaNasc = input('Que dia você nasceu? ')
-mesNasc = input('De qual mês? ')
-anoNasc = input('E o ano? ')
+diaNasc = input('Que \033[43mdia\033[m você nasceu? ').strip()
+mesNasc = input('De qual \033[43mmês\033[m? ').strip()
+anoNasc = input('E o \033[43mano\033[m? ').strip()
 print()
-print('Você nasceu é: ', diaNasc, '/', mesNasc, '/', anoNasc)
+print('\033[4mVocê nasceu em\033[m \033[33m{}\033[1;31m/\033[33m{}\033[1;31m/\033[33m{}\033[m' .format(diaNasc, mesNasc, anoNasc))
 print()

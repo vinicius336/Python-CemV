@@ -176,3 +176,6 @@
 
 ### Commit 038 - 08/08/2023
 * Incluindo cor no Desafio01
+
+### Commit 039 - 08/08/2023
+* Incluindo cor nos Desafios 2, 3 e 3_resolvido
