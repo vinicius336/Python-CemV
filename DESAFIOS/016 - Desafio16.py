@@ -3,9 +3,9 @@
 '''
 from math import trunc
 print()
-num = float(input('Digite um número Real: '))
-print('A parte inteira de {} é {}' .format(num, trunc(num)))
+num = float(input('\033[1;40mDigite um número Real:\033[m '))
+print('\033[1;40mA parte inteira de \033[4;35;40m{}\033[0;37;40m é \033[4;35;40m{}\033[m' .format(num, trunc(num)))
 print()
-print('A parte inteira de {} é {}' .format(num, int(num)))
+print('\033[1;40mA parte inteira de \033[4;35;40m{}\033[0;37;40m é \033[4;35;40m{}\033[m' .format(num, int(num)))
 
 print()

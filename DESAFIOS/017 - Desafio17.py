@@ -3,11 +3,11 @@
 '''
 print()
 from math import hypot
-catOp = float(input('Digite a medida do Cateto Oposto: '))
-catAd = float(input('Digite a medida do Cateto Adjacente: '))
+catOp = float(input('\033[1;37;40mDigite a medida do \033[4;31;40m Cateto Oposto: \033[m '))
+catAd = float(input('\033[1;37;40mDigite a medida do \033[4;31;40m Cateto Adjacente: \033[m '))
 hip = hypot(catOp, catAd)
-print('A hipotenusa vale: {:.2f}' .format(hip))
+print('\033[1;37;40mA \033[4;31;40m hipotenusa \033[m\033[1;37;40m vale \033[4;31;40m{:.2f}\033[m' .format(hip))
 hip = (catOp ** 2 + catAd ** 2) ** (1/2)
-print('{:.2f}' .format(hip))
+print('\033[4;31;40m {:.2f} \033[m' .format(hip))
 
 print()

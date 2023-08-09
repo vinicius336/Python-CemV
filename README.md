@@ -191,3 +191,6 @@
 
 ### Commit 043 - 09/08/2023
 * Incluindo cor no Desafio13
+
+### Commit 044 - 09/08/2023
+* Incluindo cor nos Desafios 14 a 17
