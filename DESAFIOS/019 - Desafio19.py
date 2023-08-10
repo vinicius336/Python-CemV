@@ -4,17 +4,16 @@
 '''
 import random
 print()
-aluno1 = str(input('Nome do primeiro aluno: '))
-aluno2 = str(input('Nome do segundo aluno: '))
-aluno3 = str(input('Nome do terceiro aluno: '))
-aluno4 = str(input('Nome do quarto aluno: '))
+aluno1 = str(input('\033[1;37;41m Nome do primeiro aluno: \033[m ')).split()
+aluno2 = str(input('\033[1;37;42m Nome do segundo  aluno: \033[m ')).split()
+aluno3 = str(input('\033[1;37;43m Nome do terceiro aluno: \033[m ')).split()
+aluno4 = str(input('\033[1;37;44m Nome do  quarto  aluno: \033[m ')).split()
 alunos = aluno1 + aluno2 + aluno3 + aluno4
-alunos = aluno1.split() + aluno2.split() + aluno3.split() + aluno4.split()
-print('Entre os alunos', alunos)
-print('O aluno sorteado para apagar o quadro é: {}' .format(random.sample(alunos,1)))
-print()
-listaAlunos = [aluno1, aluno2, aluno3, aluno4]
-print('Entre os alunos', listaAlunos)
-print('O aluno sorteado para apagar o quadro é: {}' .format(random.choice(listaAlunos)))
+
+print('\033[1;35;40m Entre os alunos \033[m \033[4;31;40m{}\033[m' .format(alunos))
+print('\033[1;35;40m O aluno sorteado para apagar o quadro é:\033[m \033[4;35;40m{}\033[m' .format(random.sample(alunos,1)))
+
+print('\033[1;35;40m Entre os alunos \033[m \033[4;31;40m{}\033[m' .format(alunos))
+print('\033[1;35;40m O aluno sorteado para apagar o quadro é:\033[m \033[0;40m \033[4;31;40m{}\033[0;40m \033[m' .format(random.choice(alunos)))
 
 print()
