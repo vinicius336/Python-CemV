@@ -4,10 +4,10 @@
     Para os inferiores ou iguais, o aumento será de 15%.
 '''
 print()
-salario = float(input('Digite seu salário: '))
+salario = float(input('\033[1;47m Digite seu salário: \033[33;40m R$ \033[m '))
 if(salario > 1250):
-    print('Seu salário teve reajuste de 10%. Novo salário R$ {:.2f}' .format(salario * 1.1))
+    print('\033[1;40m Seu salário teve reajuste de \033[42m 10%. \033[m \033[36;40m Novo salário \033[33m R$ {:.2f} \033[m' .format(salario * 1.1))
 else:
-    print('Seu salário teve reajuste de 15%. Novo salário R$ {:.2f}' .format(salario * 1.15))
+    print('\033[1;40m Seu salário teve reajuste de \033[42m 15%. \033[m \033[36;40m Novo salário \033[33m R$ {:.2f} \033[m' .format(salario * 1.15))
 
 print()
