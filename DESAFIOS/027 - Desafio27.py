@@ -5,8 +5,8 @@
     Último: Souza
 '''
 print()
-nome = input('Digite seu nome completo: ').strip().split()
-print('Primeiro nome: {}' .format((nome[0])))
-print('Último nome: {}' .format((nome[0-1])))
+nome = input('\033[1;40m Digite seu nome completo:\033[m ').strip().split()
+print('\033[1;37;40m Primeiro nome: \033[4;32m {} \033[m' .format((nome[0])))
+print('\033[1;37;40m  Último  nome: \033[3;32m {}  \033[m' .format((nome[0-1])))
 
 print()

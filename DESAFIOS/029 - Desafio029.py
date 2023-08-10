@@ -4,10 +4,10 @@
     A multa vai custar R$ 7,00 por cada Km acima do limite.
 '''
 print()
-v = int(input('Qual é a velocidade do carro? '))
+v = int(input('\033[3;40m Qual é a velocidade do carro?\033[m '))
 if(v > 80):
-    print('VOCÊ FOI MULTADO! Valor: R${:.2f}' .format((v - 80) * 7))
+    print('\033[1;31;40m MULTADO!! \033[47m O valor da multa é \033[33;40m R${:.2f} \033[m' .format((v - 80) * 7))
 else:
-    print('Parabéns! Não tem multa!')
+    print('\033[1;32;40m PARABÉNS! \033[32;47m Você não tem multa! \033[m')
 
 print()
