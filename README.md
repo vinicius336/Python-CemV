@@ -206,3 +206,6 @@
 
 ### Commit 048 - 10/08/2023
 * Incluindo cor nos Desafios 30 a 35
+
+### Commit 049 - 10/08/2023
+* Organização dos Desafios em pastas
