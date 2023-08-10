@@ -197,3 +197,6 @@
 
 ### Commit 045 - 09/08/2023
 * Incluindo cor nos Desafios 18 a 20
+
+### Commit 046 - 10/08/2023
+* Incluindo cor nos Desafios 22 e 23

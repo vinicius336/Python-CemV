@@ -6,19 +6,19 @@
     >> Quantas letras tem o primeiro nome.
 '''
 print()
-nomeCompleto = str(input('Digite seu nome completo: ')).strip()
+nomeCompleto = str(input('\033[4;40m Digite seu nome completo:\033[m ')).strip()
 
-print('{}' .format(nomeCompleto.upper()))
-print('{}' .format(nomeCompleto.lower()))
-print('{}' .format(len(nomeCompleto) - ' '.count(nomeCompleto)))
-print('{}' .format(nomeCompleto.find(' ')))
+print('\033[1;40m {} \033[m' .format(nomeCompleto.upper()))
+print('\033[9;47m {} \033[m' .format(nomeCompleto.lower()))
+print('\033[1;41m {} \033[m' .format(len(nomeCompleto) - ' '.count(nomeCompleto)))
+print('\033[1;42m {} \033[m' .format(nomeCompleto.find(' ')))
 nome = nomeCompleto.split()
-print('{} {}' .format(nome[0], len(nome)))
+print('\033[4;43m {} \033[m \033[1;44m {} \033[m' .format(nome[0], len(nome)))
 print()
 
 listaNomes = nomeCompleto.split() # [vi al no]
 letras = ''.join(listaNomes)
-print('{}' .format(len(letras)))
-print('{}' .format(len(listaNomes[0])))
+print('\033[1;44m {} \033[m' .format(len(letras)))
+print('\033[1;45m {} \033[m' .format(len(listaNomes[0])))
 
 print()
