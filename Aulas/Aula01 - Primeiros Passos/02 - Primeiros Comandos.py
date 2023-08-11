@@ -17,4 +17,4 @@ idade = input('Qual é sua idade: ')
 peso = input('Qual é seu peso: ')
 
 print('Você digitou: ', nome, idade, peso)
-print()
+print() 

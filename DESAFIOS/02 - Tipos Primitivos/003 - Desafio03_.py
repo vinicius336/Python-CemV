@@ -1,5 +1,5 @@
 '''
-    Escreva um código que leia dois números realize a soma e informe na tela o resultado
+    Crie um programa que leia dois números e mostre a soma entre eles.
 '''
 print()
 numero01 = int(input('\033[30;46mDigite um número:\033[m '))

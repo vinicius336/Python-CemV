@@ -209,3 +209,9 @@
 
 ### Commit 049 - 10/08/2023
 * Organização dos Desafios em pastas
+
+### Commit 050 - 11/08/2023
+* Condições Aninhadas.py
+* Organização dos Desafios em pastas por assunto
+* Reorganização de todos os arquivos
+* Enunciado dos Desafios 36 a 45

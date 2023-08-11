@@ -8,6 +8,7 @@
     print('A raiz sem casas decimais é {}' .format(math.trunc(raiz)))
     print('Sem casas decimais também {:.0f}' .format(raiz))
 '''
+# import math
 from math import sqrt, floor, ceil, trunc   #   IMPORTAR APENAS AS FUNÇÕES ESPECÍFICAS DA BIBLIOTECA
 print()
 num = int(input('Digite um número: '))
@@ -17,6 +18,11 @@ print('O arredondamento pra cima é {}' .format(ceil(raiz)))
 print('O arredondamento pra baixo é {}' .format(floor(raiz)))
 print('A raiz sem casas decimais é {}' .format(trunc(raiz)))
 print('Sem casas decimais também {:.0f}' .format(raiz))
+print()
+
+import random
+# from random import randint
+print('Número aleatório de 0 a 5: ',random.randint(0,5))
 
 print()
 

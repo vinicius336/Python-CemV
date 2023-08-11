@@ -1,5 +1,5 @@
 '''
-    Escreva um código que leia dois números realize a soma e informe na tela o resultado
+    Crie um programa  que leia dois números e mostre a soma entre eles
     "Código Corrigido"
 '''
 print()

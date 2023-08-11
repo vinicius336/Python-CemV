@@ -1,5 +1,5 @@
 '''
-    Escreva um código que leia algo pelo teclado e informe na tela o máximo de informações sobre o que foi digitado
+    Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 '''
 print()
 

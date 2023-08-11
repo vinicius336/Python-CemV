@@ -7,5 +7,5 @@ if(media >= 6.0):
     print('Sua média foi boa! PARABÉNS!')
 else:
     print('Sua média foi ruim! ESTUDE MAIS!')
-
+print('PARABÉNS! Você passou!') if(media >= 6) else print('REPROVADO! Estude mais!')
 print()
