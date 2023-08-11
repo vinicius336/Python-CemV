@@ -5,6 +5,16 @@
     >> 3 para Hexadecimal
 '''
 print()
+numero = int(input('Digite um número: '))
+print('(B)inário\n(O)ctal\n(H)exadecimal')
+base = str(input('Digite a inicial da base para transformar: ')).upper()
+print()
 
+if(base == 'B'):
+    print('O número {} em Binário é {}' .format(numero, bin(numero)))
+elif(base == 'O'):
+    print('O número {} em Octal é {} ' .format(numero, oct(numero)))
+else:
+    print('O número {} em Hexadecimal é {} ' .format(numero, hex(numero)))
 
 print()
