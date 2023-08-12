@@ -11,10 +11,10 @@ base = str(input('Digite a inicial da base para transformar: ')).upper()
 print()
 
 if(base == 'B'):
-    print('O número {} em Binário é {}' .format(numero, bin(numero)))
+    print('O número {} em Binário é {}' .format(numero, bin(numero)[2:]))
 elif(base == 'O'):
-    print('O número {} em Octal é {} ' .format(numero, oct(numero)))
+    print('O número {} em Octal é {} ' .format(numero, oct(numero)[2:]))
 else:
-    print('O número {} em Hexadecimal é {} ' .format(numero, hex(numero)))
+    print('O número {} em Hexadecimal é {} ' .format(numero, hex(numero)[2:].upper()))
 
 print()

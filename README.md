@@ -219,5 +219,10 @@
 ### Commit 51 - 11/08/2023
 * Desafio36 Feito
 
-### Commit 52 - 12/08/2023
+### Commit 52 - 11/08/2023
 * Desafio37 Feito
+
+### Commit 53 - 11/08/2023
+* Ajuste no Desafio37
+* Desafio38 Feito
+* Ajuste na data do commit anterior
