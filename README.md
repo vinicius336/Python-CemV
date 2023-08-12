@@ -229,3 +229,6 @@
 
 ### Commit 54 - 11/08/2023
 * Desafio39 Feito
+
+### Commit 55 - 11/08/2023
+* Desafio40 Feito
