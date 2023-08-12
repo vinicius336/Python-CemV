@@ -226,3 +226,6 @@
 * Ajuste no Desafio37
 * Desafio38 Feito
 * Ajuste na data do commit anterior
+
+### Commit 54 - 11/08/2023
+* Desafio39 Feito
