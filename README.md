@@ -247,3 +247,6 @@
 
 ### Commit 60 - 12/08/2023
 * Desafio45 Feito
+
+### Commit 61 - 12/08/2023
+* Desafios 36 ao 45 corrigidos

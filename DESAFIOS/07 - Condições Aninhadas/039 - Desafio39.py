@@ -8,12 +8,20 @@
 from datetime import date
 print()
 ano = int(input('Digite o seu ano de nascimento: '))
-
-if((date.today().year - ano) < 18):
-    print('Faltam {} anos para você se alistar ao serviço militar.' .format(date.today().year - ano))
-elif(date.today().year - ano == 18):
-    print('Está na hora de se alistar!')
+sexo = int(input('Informe o seu sexo:\n[1] - Masculino\n[2] - Feminino\n'))
+if sexo == 1:
+    if((date.today().year - ano) < 18):
+        print('Você tem {} anos' .format(date.today().year - ano))
+        print('Faltam {} anos para você se alistar ao serviço militar.' .format(date.today().year - ano))
+    elif(date.today().year - ano == 18):
+        print('Você tem {} anos' .format(date.today().year - ano))
+        print('Está na hora de se alistar!')
+    else:
+        print('Você tem {} anos' .format(date.today().year - ano))
+        print('Seu alistamento militar passou do prazo em {} ano(s).' .format((date.today().year - ano) - 18))
+elif sexo == 2:
+    print('Você não precisa se alistar!')
 else:
-    print('Seu alistamento militar passou do prazo em {} ano(s).' .format((date.today().year - ano) - 18))
+    print('Opção inválida!')
 
 print()

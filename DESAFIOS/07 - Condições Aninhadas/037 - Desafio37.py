@@ -6,15 +6,17 @@
 '''
 print()
 numero = int(input('Digite um número: '))
-print('(B)inário\n(O)ctal\n(H)exadecimal')
+print('[1] Binário\n[2] Octal\n[3] Hexadecimal')
 base = str(input('Digite a inicial da base para transformar: ')).upper()
 print()
 
-if(base == 'B'):
+if(base == 1):
     print('O número {} em Binário é {}' .format(numero, bin(numero)[2:]))
-elif(base == 'O'):
+elif(base == 2):
     print('O número {} em Octal é {} ' .format(numero, oct(numero)[2:]))
-else:
+elif(base == 3):
     print('O número {} em Hexadecimal é {} ' .format(numero, hex(numero)[2:].upper()))
+else:
+    print('Opção inválida')
 
 print()
