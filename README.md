@@ -250,3 +250,8 @@
 
 ### Commit 61 - 12/08/2023
 * Desafios 36 ao 45 corrigidos
+
+### Commit 62 - 12/08/2023
+* Aula de estrutura de repetição for
+* Ajuste nome aula Condições Aninhadas
+* Enunciados Desafios 46 a 56
