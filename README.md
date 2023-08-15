@@ -260,3 +260,6 @@
 * Desafio 46 Feito
 * Correção Desafio 46
 * Alteração de data do commit anterior
+
+### Commit 64 - 14/08/2023
+* Desafio 47 Feito e Corrigido
