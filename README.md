@@ -284,3 +284,6 @@
 
 ### Commit 71 - 15/08/2023
 * Desafio 54 Feito e Corrigido
+
+### Commit 72 - 15/08/2023
+* Desafio 55 Feito e Corrigido
