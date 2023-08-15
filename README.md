@@ -275,3 +275,6 @@
 
 ### Commit 68 - 15/08/2023
 * Desafio 51 Feito e Corrigido
+
+### Commit 69 - 15/08/2023
+* Desafio 52 Feito e Corrigido
