@@ -290,3 +290,7 @@
 
 ### Commit 73 - 16/08/2023
 * Desafio 56 Feito e Corrigido
+
+### Commit 74 - 17/08/2023
+* Pastas de Aula e Desafio de While
+* Aula de Estrutura de repetição While
