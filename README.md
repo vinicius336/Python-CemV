@@ -297,3 +297,6 @@
 
 ### Commit 75 - 17/08/2023
 * Exercício 02 de Estrutura de repetição While
+
+### Commit 76 - 17/08/2023
+* Exercício 03 de Estrutura de repetição While
