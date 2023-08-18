@@ -293,4 +293,7 @@
 
 ### Commit 74 - 17/08/2023
 * Pastas de Aula e Desafio de While
-* Aula de Estrutura de repetição While
+* Exercício 01 de Estrutura de repetição While
+
+### Commit 75 - 17/08/2023
+* Exercício 02 de Estrutura de repetição While
