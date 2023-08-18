@@ -304,3 +304,6 @@
 ### Commit 77 - 17/08/2023
 * Exercício 04 de Estrutura de repetição While
 * Adequação de comentário do exercício 01
+
+### Commit 78 - 18/08/2023
+* Enunciados dos DESAFIOS 57 ao 65
