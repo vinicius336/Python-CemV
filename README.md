@@ -300,3 +300,7 @@
 
 ### Commit 76 - 17/08/2023
 * Exercício 03 de Estrutura de repetição While
+
+### Commit 77 - 17/08/2023
+* Exercício 04 de Estrutura de repetição While
+* Adequação de comentário do exercício 01
