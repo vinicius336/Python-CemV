@@ -307,3 +307,6 @@
 
 ### Commit 78 - 18/08/2023
 * Enunciados dos DESAFIOS 57 ao 65
+
+### Commit 79 - 19/08/2023
+* Desafio 57 Feito (com erro)
