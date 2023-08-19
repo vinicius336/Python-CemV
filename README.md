@@ -310,3 +310,6 @@
 
 ### Commit 79 - 19/08/2023
 * Desafio 57 Feito (com erro)
+
+### Commit 80 - 19/08/2023
+* Desafio 57 Corrigido
