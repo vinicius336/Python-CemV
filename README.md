@@ -319,3 +319,6 @@
 
 ### Commit 82 - 21/08/2023
 * Desafio 58 Corrigido
+
+### Commit 83 - 22/08/2023
+* Desafio 59 Feito
