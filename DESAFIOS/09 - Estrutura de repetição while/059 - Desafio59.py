@@ -7,17 +7,17 @@
     [5] SAIR DO PROGRAMA
     Seu programa deverá realizar a operação solicitada em cada caso.
 '''
+from time import sleep
 num1 = int(input('\nDigite um número: '))
 num2 = int(input('Digite outro número: '))
 opcao = 0
-
 while opcao != 5:
-    print('\nEscolha uma opção:')
-    print('[1] Somar')
-    print('[2] Multiplicar')
-    print('[3] Maior')
-    print('[4] Novos números')
-    print('[5] Sair do Programa')
+    print('''\nEscolha uma opção:
+    [1] Somar
+    [2] Multiplicar
+    [3] Maior
+    [4] Novos números
+    [5] Sair do Programa''')
     opcao = int(input('\nEscolha uma opção: '))
     
     if opcao == 1:
@@ -32,9 +32,13 @@ while opcao != 5:
         else:
             print('{} e {} são iguais.' .format(num1, num2))
     elif opcao == 4:
-        print('Digite novos números:')
-        num1 = int(input('\nDigite um número: '))
-        num2 = int(input('Digite outro número: '))
+        print('\nDigite novos números:')
+        num1 = int(input('Primeiro número: '))
+        num2 = int(input('Segundo número: '))
     elif opcao == 5:
-        print()
+        print('Fim!\n')
         exit()
+    else:
+        print('Opção inválida. Tente novamente.')
+    sleep(0) if opcao == 4 else sleep(2)
+        
