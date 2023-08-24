@@ -325,3 +325,6 @@
 
 ### Commit 84 - 23/08/2023
 * Desafio 59 Corrigido
+
+### Commit 85 - 24/08/2023
+* Desafio 60 >> Feito com for
