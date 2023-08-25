@@ -11,4 +11,11 @@ for i in range(num, 0, -1):
     print('{} x ' .format(i), end='') if i > 1 else print('{}' .format(i))
 print('O fatorial de {} é {}\n' .format(num, fat))
 
-#print('\n{:=^20}\n' .format(' while '))
+fat = 1
+print('{:=^20}' .format(' while '))
+i = num
+while i != 1:
+    fat = fat * i
+    i -= 1
+    print('{} x' .format(i), end=' ') if i > 1 else print('{}' .format(num))
+print('O fatorial de {} é {}\n' .format(num, fat))
