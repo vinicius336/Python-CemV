@@ -331,3 +331,6 @@
 
 ### Commit 86 - 25/08/2023
 * Desafio 60 Feito
+
+### Commit 86 - 26/08/2023
+* Desafio 60 Corrigido
