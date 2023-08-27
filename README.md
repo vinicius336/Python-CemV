@@ -334,3 +334,6 @@
 
 ### Commit 86 - 26/08/2023
 * Desafio 60 Corrigido
+
+### Commit 87 - 27/08/2023
+* Desafio 60 Acrescentado escolha de qual modo calcular o fatorial
