@@ -337,3 +337,9 @@
 
 ### Commit 87 - 27/08/2023
 * Desafio 60 Acrescentado escolha de qual modo calcular o fatorial
+
+### Commit 88 - 28/08/2023
+* Desafio 61 Incompleto
+* Desafio 62 Dependente do 61
+* Desafio 63 Incompleto
+* Desafio 64 Feito
