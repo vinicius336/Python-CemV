@@ -4,23 +4,19 @@
 '''
 n = int(input('\nDigite um número: '))
 
-fib = 0
-i = 0
-
 print('Os {}ºs primeiros termos da sequência de Fibonacci são:' .format(n))
+
+fib = 0
+i = 1
 while i < n:
     print('{}' .format(fib), end=' ')
-    if fib == 0:
+    if i == 0 or i == 1:
         fib = 1
         fibAnt = 0
-    elif fib == 1:
-        fib = fibAnt + fib
-        fibAnt = 1
     else:
+        termo = fib + fibAnt
         fibAnt = fib
-        fib = fibAnt + fib
-    
-        # 0 1 1 2 3 5 8 13 21 34 55 89 144 233    
+        fib = termo
     i += 1
     
 print('\n')
