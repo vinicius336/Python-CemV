@@ -7,13 +7,15 @@ termo10 = 10
 termo = 0
 i = 1
 
-print('A PA tem como primeiro termo {} e razão {}' .format(termo, razao))
-print('A sequência da PA é: ', end=' ')
+print('A PA tem como primeiro termo {} e razão {}' .format(termo1, razao))
+print('-=' * 20)
+print('A sequência da PA é: ')
 
-while i < termo10:
+
+while i <= termo10:
     termo = termo1 + (i - 1) * razao
-    print('{} ' .format(termo), end=' ')
+    print(' {}' .format(termo), end=' ↦ ')
     i += 1
-    
+print(' FIM DA PROGRESSÃO')
 print()
 print()
