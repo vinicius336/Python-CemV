@@ -349,3 +349,7 @@
 
 ### Commit 90 - 30/08/2023
 * Desafio 61 Corrigido 
+
+### Commit 91 - 31/08/2023
+* Detalhe no Desafio 61
+* Desafio 62 Resolvido (problema na condição de opção inválida)
