@@ -353,3 +353,6 @@
 ### Commit 91 - 31/08/2023
 * Detalhe no Desafio 61
 * Desafio 62 Resolvido (problema na condição de opção inválida)
+
+### Commit 92 - 01/09/2023
+* Desafio 62 Resolvido problema na condição de opção inválida e loop até informar que não quer mais termos da P.A.
