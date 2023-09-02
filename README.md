@@ -356,3 +356,7 @@
 
 ### Commit 92 - 01/09/2023
 * Desafio 62 Resolvido problema na condição de opção inválida e loop até informar que não quer mais termos da P.A.
+
+### Commit 93 - 02/09/2023
+* Desafio 62 >> Forma alternativa
+* Criação do Desafio 62 Conforme enunciado :: Corrigido
