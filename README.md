@@ -366,3 +366,6 @@
 
 ### Commit 95 - 05/09/2023
 * Desafio 64 Corrigido
+
+### Commit 96 - 06/09/2023
+* Desafio 65 Iniciado
