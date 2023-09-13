@@ -16,19 +16,19 @@ while n != 'N':
             menor = n
         media += n
     cont += 1
+    
     if continuar != 'N':
         print('Deseja continuar a digitar valores?')
         continuar = str(input('[S]im ou [N]ão: ')).upper().strip()
-    
-    if continuar == 'S':
-        continue
-    else:
-        while continuar != 'S':
-            if continuar != 'N':
-                print('\nOpção inválida. Tente novamente!\nDeseja continuar a digitar valores?')
-                continuar = str(input('[S]im ou [N]ão: ')).upper().strip()
-                if continuar == 'S':
-                    continue
+        if continuar == 'S':
+            continue
+        else:
+            while continuar != 'S':
+                if continuar != 'N':
+                    print('\nOpção inválida. Tente novamente!\nDeseja continuar a digitar valores?')
+                    continuar = str(input('[S]im ou [N]ão: ')).upper().strip()
+                    if continuar == 'S':
+                        continue
                 else:
                     media /= cont
                     print('\nO maior valor é {}.\nO menor valor é {}.\nA média dos valores é {}\n' .format(maior, menor, media))
