@@ -3,8 +3,8 @@
 '''
 n = cont = media = maior = menor = 0
 continuar = 'S'
-while n != 'N':
-    int(input('\nDigite um número: '))
+while continuar != 'N':
+    n = int(input('\nDigite um número: '))
     if cont == 0:
         maior = n
         menor = n

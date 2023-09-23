@@ -372,3 +372,6 @@
 
 ### Commit 97 - 13/09/2023
 * Desafio 65 - Entrada de valores resolvido
+
+### Commit 98 - 23/09/2023
+* Desafio 65 - Organizado entrada de dados incorreta
