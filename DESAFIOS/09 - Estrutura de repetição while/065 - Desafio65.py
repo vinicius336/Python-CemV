@@ -6,9 +6,7 @@ continuar = 'S'
 while continuar != 'N':
     n = int(input('\nDigite um número: '))
     if cont == 0:
-        maior = n
-        menor = n
-        media = n
+        maior = menor = media = n
     else:
         if n > maior:
             maior = n

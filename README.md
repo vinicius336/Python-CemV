@@ -375,3 +375,6 @@
 
 ### Commit 98 - 23/09/2023
 * Desafio 65 - Organizado entrada de dados incorreta
+
+### Commit 99 - 27/09/2023
+* Desafio 65 Corrigido
