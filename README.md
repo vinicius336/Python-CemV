@@ -378,3 +378,7 @@
 
 ### Commit 99 - 27/09/2023
 * Desafio 65 Corrigido
+
+### Commit 100 - 28/09/2023
+* Alteração nomes das pastas das aulas
+* Exercício 05 Estrutura de repetição while
