@@ -382,3 +382,6 @@
 ### Commit 100 - 28/09/2023
 * Alteração nomes das pastas das aulas
 * Exercício 05 Estrutura de repetição while
+
+### Commit 101 - 29/09/2023
+* Enunciado dos Desafios 66 a 71
