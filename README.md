@@ -385,3 +385,6 @@
 
 ### Commit 101 - 29/09/2023
 * Enunciado dos Desafios 66 a 71
+
+### Commit 102 - 02/10/2023
+* Desafio 66 Feito
