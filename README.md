@@ -388,3 +388,6 @@
 
 ### Commit 102 - 02/10/2023
 * Desafio 66 Feito
+
+### Commit 103 - 14/10/2023
+* Desafio 67 Feito
