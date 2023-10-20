@@ -394,3 +394,6 @@
 
 ### Commit 104 - 14/10/2023
 * Desafio 68 Feito
+
+### Commit 105 - 20/10/2023
+* Desafio 69 Parcialmente feito
