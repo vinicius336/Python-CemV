@@ -396,4 +396,8 @@
 * Desafio 68 Feito
 
 ### Commit 105 - 20/10/2023
-* Desafio 69 Parcialmente feito
+* Desafio 69 Parcialmente feito #01
+
+### Commit 106 - 22/10/2023
+* Desafio 69 Parcialmente feito #02
+* Detalhamento da descrição do desafio 69

@@ -5,9 +5,12 @@
     C)  Quantas mulheres tem menos de 20 anos.
 '''
 while True:
-    
-    escolha = str(input('Deseja continuar?\n[S]im \ [N]ão: ')).lower().strip()
+    idade = int(input('\nEntre com a idade: '))
+    sexo = str(input('[M]asculino [F]eminino: ')).lower().strip()
+    escolha = str(input('Deseja continuar?\n[S]im [N]ão: ')).lower().strip()
     if escolha == 's':
+        
         continue
     else:
+        print()
         break
