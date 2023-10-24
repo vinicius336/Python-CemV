@@ -401,3 +401,6 @@
 ### Commit 106 - 22/10/2023
 * Desafio 69 Parcialmente feito #02
 * Detalhamento da descrição do desafio 69
+
+### Commit 107 - 23/10/2023
+* Desafio 69 Parcialmente feito #03
